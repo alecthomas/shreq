@@ -10,3 +10,4 @@ second() {
 
 first
 second
+./testdata/004.sh
